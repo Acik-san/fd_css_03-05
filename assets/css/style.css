@@ -1,0 +1,59 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Water Brush', cursive; */
+body{
+ background-color: #ff970054; 
+}
+.main-heading,.sub-heading{
+  color: firebrick;
+  font-weight: 400;
+  font-family:'Water Brush', cursive;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.main-heading{
+  font-size: 48px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+
+  text-align: center;
+  text-decoration: underline wavy white 2px;
+  text-transform: capitalize;
+}
+.page-link{
+  background-color: white;
+   
+  color: blueviolet;
+
+  font-size: 20px ;
+  font-weight: normal;
+  font-family: 'Lato', sans-serif;
+  text-transform: lowercase;
+  text-decoration: none;
+}
+.sub-heading{
+  font-weight: 400;
+  font-family: 'Water Brush', cursive;
+  text-align: center;
+  text-transform: capitalize;
+}
+.art-heading{
+  background-color: firebrick;
+  font-family: 'Lato', sans-serif;
+  font-style: italic;
+
+  text-align: right;
+  text-transform: uppercase;
+}
+.art-content{
+  color: coral;
+
+  font-size: 18px;
+  line-height: 1.3em;
+
+  text-align: justify;
+  text-indent: 1.5em;
+}
+.color-coral{
+  color: coral;
+}
