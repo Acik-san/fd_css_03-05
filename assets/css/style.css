@@ -1,18 +1,11 @@
-body{
-  
-}
 .gallery{
   text-align: center;
   margin: 2px;
 }
-.art-heading{
-  
-
-}
 .image{
   box-sizing: border-box;
-  height: 250px;
-  width: 350px;
+  height: 300px;
+  width: 450px;
   padding: 5px;
   border: 7px solid chocolate;
   border-radius: 4%;
