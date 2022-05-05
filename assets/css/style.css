@@ -1,43 +1,21 @@
 body{
-  margin: 0
+  
 }
 .gallery{
   text-align: center;
+  margin: 2px;
+}
+.art-heading{
+  
+
 }
 .image{
   box-sizing: border-box;
-  height: 200px;
-  width: 200px;
-  padding:  15px;
-  /* padding-bottom: 0; */
-  border: 5px solid beige;
-  /* border-top-style: dashed; */
-  /* border-bottom-width: 0; */
-  /* border-right-color: red; */
-  /* border-radius: 50%; */
-  margin: 10px;
-  /* margin-left: 0; */
-  background-color: white;
-  object-fit: cover;
-  object-position: right;
-}
-.span{
-  display: inline-block;
-  box-sizing: border-box;
-  width: 200px;
-  border: 2px solid red;
-  padding: 20px;
-  margin: 10px;
-}
-.div{
-  display: inline-block;
-  box-sizing: border-box;
-  width: 25%;
-  /* height: 50px; */
-  border: 2px solid blue;
-  padding: 20px;
-  /* margin: 30px auto; */
-}
-.margin{
-  margin-top: -30px;
+  height: 250px;
+  width: 350px;
+  padding: 5px;
+  border: 7px solid chocolate;
+  border-radius: 4%;
+  margin: 5px;
+  background-color: greenyellow;
 }
